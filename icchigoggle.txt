@@ -9,6 +9,8 @@
 ! Boost Gamesites
 /wikiwiki.jp/dqdic3rd/$boost=3
 /wikiwiki.jp/splatoon2mix/$boost=3
+/minecraft.fandom.com/wiki/$boost=3
+$boost=3,site=minecraftjapan.miraheze.org
 $boost=3,site=maikuranikki.jp
 $boost=3,site=ghasts.blog.fc2.com
 
