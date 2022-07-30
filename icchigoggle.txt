@@ -1,0 +1,19 @@
+! name: Gamesite_filter_JP
+! description: ゲーム攻略サイト用。個人的フィルタです。
+! public: false
+! author: Monchi-Icchi
+
+! avatar: #3cb371
+! issues: https://twitter.com/icchi_da4
+
+! Boost Gamesites
+/wikiwiki.jp/dqdic3rd/$boost=3
+/wikiwiki.jp/splatoon2mix/$boost=3
+$boost=3,site=maikuranikki.jp
+$boost=3,site=ghasts.blog.fc2.com
+
+! Discard Websites
+$discard,site=game8.jp
+$discard,site=altema.jp
+$discard,site=gamewith.jp
+$discard,site=gamepedia.jp
